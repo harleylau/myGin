@@ -1,7 +1,7 @@
 package main
 
 import (
-	"myGin/v0.1/gin"
+	"github.com/harleylau/myGin/v0.1/gin"
 )
 
 func v1IndexLoginfunc(c *gin.Context) {
